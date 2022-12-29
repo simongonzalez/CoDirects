@@ -1,0 +1,6 @@
+Sample description: Sports news on a local radio station  
+ID: fn000040
+Orthographic transcription: in het VU-ziekenhuis in Amsterdam || is Danny Blind vanmiddag aan zijn rechter knie onderzocht. || er is gebleken dat er geen verder verlies || van het kraakbeen is opgetreden. || wel is er wat irritatie aan de binnenmeniscus geconstateerd. || er zal per wedstrijd dan ook worden gekeken || of Danny Blind vanaf nu inzetbaar is || maar er werd eerst gevreesd voor helemaal nooit meer kunnen spelen.|| nou dat valt dus gelukkig mee. || ben 'k erg blij mee persoonlijk als fan || zullen we maar zeggen. ||
+Audio format: 16 bits, 16 kHz wav format (mono)
+File size: 714 kB
+Duration: 22.84 sec
