@@ -1,0 +1,6 @@
+Sample description: Record announcement on a local radio station 
+ID: fn000010
+Orthographic transcription: Always*v Have*v And*v Always*v Will*v de nieuwe Ace*v Of*v Base*v || en hij klinkt nog leuk het is wel een beetje een ABBA-achtig || -typig*n uh liedje weet je wel ja ABBA-achtig -typig*n. || ja nou zo is misschien verkeerde woordkeuze || maar uhm zo ga 'k het wel noemen || achtig*n en typig*n. 
+Audio format: 16 bits, 16 kHz wav format (mono)
+File size: 479 kB
+Duration: 15.29 sec
