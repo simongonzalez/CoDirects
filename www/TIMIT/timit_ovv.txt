@@ -1,0 +1,18 @@
+Item Name:	TIMIT Acoustic-Phonetic Continuous Speech Corpus
+Author(s):	John S. Garofolo, Lori F. Lamel, William M. Fisher, Jonathan G. Fiscus, David S. Pallett, Nancy L. Dahlgren, Victor Zue
+LDC Catalog No.:	LDC93S1
+ISBN:	1-58563-019-5
+ISLRN:	664-033-662-630-6
+Member Year(s):	1993
+DCMI Type(s):	Sound
+Sample Type:	1-channel pcm
+Sample Rate:	16000
+Data Source(s):	microphone speech
+Application(s):	speech recognition
+Language(s):	English
+Language ID(s):	eng
+License(s):	LDC User Agreement for Non-Members
+Online Documentation:	LDC93S1 Documents
+Licensing Instructions:	Subscription & Standard Members, and Non-Members
+Citation:	Garofolo, John S., et al. TIMIT Acoustic-Phonetic Continuous Speech Corpus LDC93S1. Web Download. Philadelphia: Linguistic Data Consortium, 1993.
+Related Works:	View
