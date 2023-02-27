@@ -1,3 +1,4 @@
+#visualising features
 output$visualInspection1 <- renderEcharts4r({
   
   options(scipen = 999)
